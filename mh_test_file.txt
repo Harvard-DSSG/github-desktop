@@ -1,1 +1,2 @@
-This is my test file by mh.
+This is a changed file by mh.
+This is a new line.
